@@ -2,7 +2,7 @@
 
 <h2>Descrição do Projeto</h2>
 <p align="center">
-Aplicação desenvolvida no segundo desafio Ignite React da Rocketseat Capítulo II - Desafio 02 - Refactoring de classes e typescript
+Aplicação desenvolvida no segundo desafio Ignite React da Rocketseat Capítulo II - Desafio 02 - Refactoring de classes e typescript.
 
 </p>
 
